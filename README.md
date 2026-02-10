@@ -37,6 +37,7 @@ Directories returning 403 FORBIDDEN indicate that access is restricted but direc
 **SECURITY IMPACT:**
 Exposed directories can provide attackers with useful information about the application structure. 
 If sensitive directories such as admin panels, backups, or upload folders are not properly secured, they may lead to unauthorized access or data leakage.
+
 ---
 **RECOMMENDATIONS:**
 *	Disable directory listing
