@@ -3,11 +3,11 @@ This report documents the result of a directory brute-force scan conducted on th
 ---
 
 ### DIRECTORY BRUTEFORCE SCAN REPORT (DIRB)
-Target: http://testfire.net.
-Tool Used: DIRB
-Date: 03/02/2026
-Tester: ORTUANYA, L. CHIMA
-Purpose: Security Assessment
+* Target: http://testfire.net.
+* Tool Used: DIRB
+* Date: 03/02/2026
+* Tester: ORTUANYA, L. CHIMA
+* Purpose: Security Assessment
 ---
 
 ## EXECUTIVE SUMMARY
