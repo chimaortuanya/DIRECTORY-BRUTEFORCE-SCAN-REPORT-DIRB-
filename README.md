@@ -43,7 +43,7 @@ If sensitive directories such as admin panels, backups, or upload folders are no
 
 ---
 **RECOMMENDATIONS:**
-*	Disable directory listing
+*	 Disable directory listing
 *		Restrict access to sensitive directories
 *		Use strong authentication for admin areas
 *		Remove unused files and folders
