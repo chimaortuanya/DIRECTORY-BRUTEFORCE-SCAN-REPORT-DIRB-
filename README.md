@@ -7,11 +7,11 @@ Date: 03/02/2026
 Tester: ORTUANYA, L. CHIMA
 Purpose: Security Assessment
 
- **##EXECUTIVE SUMMARY:**
+ **EXECUTIVE SUMMARY:**
  
 This report documents the result of a directory brute-force scan conducted on the target website using the DIRB tool. The purpose of the scan was to identify publicly accessible directories and files that could expose sensitive information or increase the attack surface of the web application
 
-** ###SCOPE OF TESTING**
+**SCOPE OF TESTING**
 
 The assessment was limited to directory enumeration on the target website using DIRB.
 No exploitation or modification of data was performed during the scan.
@@ -27,7 +27,7 @@ DIRB sent HTTP requests to the server and analyzed responses such as status code
     Scan mode: Default
 ```
 ---
-FINDINGS :
+**FINDINGS** :
  <img width="937" height="850" alt="image" src="https://github.com/user-attachments/assets/e78a0148-0e0e-4bd0-b613-51cb15603911" />
  
 
