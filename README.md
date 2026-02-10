@@ -46,13 +46,12 @@ If sensitive directories such as admin panels, backups, or upload folders are no
 
 ---
 **RECOMMENDATIONS:**
-
-*  Disable directory listing
-*		Restrict access to sensitive directories
-*		Use strong authentication for admin areas
-*		Remove unused files and folders
-*		Implement web application Firewall (WAF)
-*		Monitor unusual scanning activity
+  * Disable directory listing
+  * Restrict access to sensitive directories
+  * Use strong authentication for admin areas
+  * Remove unused files and folders
+  * Implement web application Firewall (WAF)
+  * Monitor unusual scanning activity
 
 **CONCLUSION :**
     The DIRB scan provided insight into the directory structure of the target website. While directory enumeration alone does not confirm vulnerabilities, it highlights potential entry points that should be reviewed and secured to reduce attack surface.
