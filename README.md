@@ -8,11 +8,14 @@ Tester: ORTUANYA, L. CHIMA
 Purpose: Security Assessment
 
  **##EXECUTIVE SUMMARY:**
+ 
 This report documents the result of a directory brute-force scan conducted on the target website using the DIRB tool. The purpose of the scan was to identify publicly accessible directories and files that could expose sensitive information or increase the attack surface of the web application
 
 ** ###SCOPE OF TESTING**
+
 The assessment was limited to directory enumeration on the target website using DIRB.
 No exploitation or modification of data was performed during the scan.
+
 ```
 
 TOOL USED:
