@@ -7,11 +7,11 @@ Date: 03/02/2026
 Tester: ORTUANYA, L. CHIMA
 Purpose: Security Assessment
 
- **EXECUTIVE SUMMARY:**
+## EXECUTIVE SUMMARY
  
 This report documents the result of a directory brute-force scan conducted on the target website using the DIRB tool. The purpose of the scan was to identify publicly accessible directories and files that could expose sensitive information or increase the attack surface of the web application
 
-**SCOPE OF TESTING**
+## SCOPE OF TESTING
 
 The assessment was limited to directory enumeration on the target website using DIRB.
 No exploitation or modification of data was performed during the scan.
@@ -43,6 +43,7 @@ If sensitive directories such as admin panels, backups, or upload folders are no
 
 ---
 **RECOMMENDATIONS:**
+
 *	 Disable directory listing
 *		Restrict access to sensitive directories
 *		Use strong authentication for admin areas
